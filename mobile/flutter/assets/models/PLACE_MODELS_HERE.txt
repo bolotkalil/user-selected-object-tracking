@@ -1,0 +1,4 @@
+Copy user_selected_object_yolo_p3_p4_p5.tflite here.
+
+The target mini neural network is implemented and trained directly in Dart;
+there is no separate target-classifier model.
